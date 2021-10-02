@@ -1,2 +1,2 @@
 # livraria-tech
-Documentos importantes para auxílio de projetos
+Estudar: documentos importantes para auxílio de projetos
